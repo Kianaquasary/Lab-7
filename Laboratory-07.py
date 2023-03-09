@@ -92,4 +92,4 @@ def animate(i):
 plt.show()
 
 writer = PillowWriter(fps=25)  
-ani.save("demo_sine.gif", writer=writer)  
+ani.save("sine_x.gif", writer=writer)  
